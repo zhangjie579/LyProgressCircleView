@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'LyProgressCircleView'
-s.version      = ‘0.0.1'
+s.version      = '0.0.2'
 s.summary      = '圆环进度条'
 s.homepage     = 'https://github.com/zhangjie579/LyProgressCircleView'
 #s.license      = 'MIT'
